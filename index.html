@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Allibras - Faça Seu Login!</title>
+        <!-- Ícone do site -->
+        <link rel="icon" href="img/logo-allibras-white.svg  ">
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div class="form-container">
+            <div class="header">
+                <img src="img/logo.svg">
+                <h1>LOGIN</h1>
+            </div>
+            <p class="subtitle">Preencha os campos abaixo</p>
+
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="username">Nome de Usuário</label>
+                    <input type="text" id="username" placeholder="Nome de Usuário">
+                    <span class="error" id="usernameError"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Senha</label>
+                    <input type="password" id="password" placeholder="Senha">
+                    <span class="error" id="passwordError"></span>
+                </div>
+
+                <div class="button-group">
+                    <button type="submit" class="btn-submit" id="submitBtn">Entrar</button>
+                    <button type="button" class="btn-cadastro">Criar Conta</button>
+                </div>
+            </form>
+        </div>
+        <!-- JS -->
+        <script src="script/script.js"></script>
+    </body>
+</html>
