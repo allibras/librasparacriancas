@@ -1,0 +1,3 @@
+* colocar cada email como único
+* não deixar que atualize como NULL
+* todo email que entra, entra como minúsculo (da par fazer no JS)

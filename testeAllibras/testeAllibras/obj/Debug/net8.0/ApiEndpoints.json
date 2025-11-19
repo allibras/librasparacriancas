@@ -1,0 +1,168 @@
+[
+  {
+    "ContainingType": "testeAllibras.Controllers.AtividadeController",
+    "Method": "InserirAtividade",
+    "RelativePath": "Atividade/InserirAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resultado",
+        "Type": "testeAllibras.Model.AtividadeResultado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.CadastroController",
+    "Method": "CreateCadastro",
+    "RelativePath": "Cadastro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "responsavel",
+        "Type": "testeAllibras.Model.Responsavel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.LoginController",
+    "Method": "ValidarLogin",
+    "RelativePath": "Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "testeAllibras.Model.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.LoginController",
+    "Method": "GetUserById",
+    "RelativePath": "Login/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetUserById"
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.LoginController",
+    "Method": "UpdateLogin",
+    "RelativePath": "Login/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "login",
+        "Type": "testeAllibras.Model.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.LoginController",
+    "Method": "DeleteLogin",
+    "RelativePath": "Login/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.PerfilController",
+    "Method": "CreatePerfil",
+    "RelativePath": "Perfil",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crianca",
+        "Type": "testeAllibras.Model.CriancaPerfil",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.PerfilController",
+    "Method": "GetPerfilById",
+    "RelativePath": "Perfil/{fk_responsavel}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fk_responsavel",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetPerfilById"
+  },
+  {
+    "ContainingType": "testeAllibras.Controllers.ResponsavelController",
+    "Method": "UpdateResponsavel",
+    "RelativePath": "Responsavel/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "responsavel",
+        "Type": "testeAllibras.Model.Responsavel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
