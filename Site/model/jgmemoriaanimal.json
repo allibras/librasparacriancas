@@ -1,0 +1,34 @@
+[
+    {
+        "video": "../jogos/videos/cachorro.mp4",
+        "text": "Cachorro"
+    },
+    {
+        "video": "../jogos/videos/coelho.mp4",
+        "text": "Coelho"
+    },
+    {
+        "video": "../jogos/videos/gato.mp4",
+        "text": "Gato"
+    },
+    {
+        "video": "../jogos/videos/hipopotamo.mp4",
+        "text": "Hipopótamo"
+    },
+    {
+        "video": "../jogos/videos/leao.mp4",
+        "text": "Leão"
+    },
+    {
+        "video": "../jogos/videos/macaco.mp4",
+        "text": "Macaco"
+    },
+    {
+        "video": "../jogos/videos/tartaruga.mp4",
+        "text": "Tartaruga"
+    },
+    {
+        "video": "../jogos/videos/zebra.mp4",
+        "text": "Zebra"
+    }
+]

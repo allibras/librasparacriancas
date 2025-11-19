@@ -1,0 +1,22 @@
+[
+    {
+        "video": "../jogos/videos/boanoite.mov",
+        "word": "Boa Noite"
+    },
+    {
+        "video": "../jogos/videos/bomdia.mov",
+        "word": "Bom Dia"
+    },
+    {
+        "video": "../jogos/videos/oi.mp4",
+        "word": "Oi"
+    },
+    {
+        "video": "../jogos/videos/tchau.mp4",
+        "word": "Tchau"
+    },
+    {
+        "video": "../jogos/videos/tudobem.mp4",
+        "word": "Tudo Bem"
+    }
+]

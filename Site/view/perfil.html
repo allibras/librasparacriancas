@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Allibras</title>
+    <link rel="icon" href="" type="image/x-icon">
+    <link rel="stylesheet" href="../style.css">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> -->
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
+</head>
+
+<body>
+    <div id="conteudo"></div>
+    <div id="createPerfil">
+        <div id="closeCreatePerfil">×</div> <!-- Xzinho para fechar -->
+        <h3>Criar Novo Perfil da Criança</h3>
+
+        <form id="formPerfil">
+            <input type="text" id="nome" name="nome" placeholder="Nome" required />
+            <input type="date" id="data" name="data" placeholder="Data de Nascimento" required />
+            <input type="text" id="apelido" name="apelido" placeholder="Apelido" required />
+
+            <select id="parentesco" name="parentesco" required>
+                <option value="" disabled selected>Parentesco</option>
+                <option value="pai">Pai</option>
+                <option value="mae">Mãe</option>
+                <option value="irmao">Irmão(ã)</option>
+                <option value="tio">Tio(a)</option>
+                <option value="outro">Outro</option>
+            </select>
+
+            <select id="serie_escolar" name="serie_escolar" required>
+                <option value="" disabled selected>Série Escolar</option>
+                <option value="pre">Pré-Escola</option>
+                <option value="primeiro">1º Ano</option>
+                <option value="segundo">2º Ano</option>
+                <option value="terceiro">3º Ano</option>
+                <option value="quarto">4º Ano</option>
+                <option value="quinto">5º Ano</option>
+                <option value="outro">Outro</option>
+            </select>
+
+            <button type="submit">Criar Perfil</button>
+        </form>
+    </div>
+
+    <button id="btnLogout">Sair</button>
+
+    <script src="../controller/perfil.js"></script>
+</body>
+
+</html>

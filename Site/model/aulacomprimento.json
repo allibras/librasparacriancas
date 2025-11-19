@@ -1,0 +1,77 @@
+[
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Olá! Eu sou Alli, e hoje vamos aprender o sinal dos Comprimentos",
+        "imagem": "../jogos/blank.png"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "“Bom dia” é uma saudação usada pela manhã",
+        "imagem": "../jogos/aulas/bomdia.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "desejando que a pessoa tenha um dia cheio de coisas boas",
+        "imagem": "../jogos/aulas/bomdia.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Agora, vamos aprender o sinal em Libras para ''Bom Dia''!",
+        "video": "../jogos/videos/bomdia.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "“Boa noite” é uma forma de cumprimentar alguém a noite",
+        "imagem": "../jogos/aulas/boanoite.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "ou de se despedir antes de dormir",
+        "imagem": "../jogos/aulas/boanoite.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Vamos aprender o sinal em Libras para ''Boa Noite'' e desejar sonhos tranquilos!",
+        "video": "../jogos/videos/boanoite.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "“Oi” é uma saudação informal, usada para cumprimentar alguém de maneira amigável",
+        "imagem": "../jogos/aulas/oi.webp"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Vamos aprender o sinal em Libras para ''Oi'' e cumprimentar todo mundo com alegria!",
+        "video": "../jogos/videos/oi.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "“Tchau” é uma despedida informal",
+        "imagem": "../jogos/aulas/tchau.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Ele é muito esperto e divertido! E ama comer frutas, como banana.",
+        "imagem": "../jogos/aulas/tchau.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Vamos aprender o sinal em Libras para ''Tchau'' e dizer até logo de forma especial!",
+        "video": "../jogos/videos/tchau.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "“Tudo bem?” é uma pergunta usada para saber como a outra pessoa está",
+        "imagem": "../jogos/aulas/tudobem.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "demonstrando interesse pelo seu bem-estar",
+        "imagem": "../jogos/aulas/tudobem.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Vamos aprender o sinal em Libras para ''Tudo Bem?''",
+        "video": "../jogos/videos/tudobem.mov"
+    }
+]

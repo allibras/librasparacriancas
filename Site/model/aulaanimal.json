@@ -1,0 +1,127 @@
+[
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Olá! Eu sou Alli, e hoje vamos aprender o sinal dos Animais",
+        "imagem": "../jogos/blank.png"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "O coelho é fofinho e tem orelhas grandes!",
+        "imagem": "../jogos/aulas/coelho.png"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Ele adora comer cenouras e pular de um lado para o outro.",
+        "imagem": "../jogos/aulas/coelho.png"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/coelho.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "O hipopótamo é grande e pesado.",
+        "imagem": "../jogos/aulas/hipopotamo.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Apesar de parecer calmo, ele é muito forte!",
+        "imagem": "../jogos/aulas/hipopotamo.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/hipopotamo.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "O cachorro é o melhor amigo do ser humano.",
+        "imagem": "../jogos/aulas/cachorro.webp"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Cada cachorro tem um jeito diferente, mas todos gostam de amor!",
+        "imagem": "../jogos/aulas/cachorro.webp"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/cachorro.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "O macaco adora subir nas árvores e pular de galho em galho.",
+        "imagem": "../jogos/aulas/macaco.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Ele é muito esperto e divertido! E ama comer frutas, como banana.",
+        "imagem": "../jogos/aulas/macaco.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/macaco.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "O gato é um animal curioso e gosta de dormir bastante!",
+        "imagem": "../jogos/aulas/gato.jpeg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Ele mia, tem pelos macios e adora carinho.",
+        "imagem": "../jogos/aulas/gato.jpeg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/gato.mov"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "A zebra parece um cavalo, mas tem listras pretas e brancas.",
+        "imagem": "../jogos/aulas/zebra.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Ela vive na savana e corre bem rápido para se proteger.",
+        "imagem": "../jogos/aulas/zebra.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/zebra.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "A tartaruga anda devagar e carrega sua casa nas costas: o casco!",
+        "imagem": "../jogos/aulas/tartaruga.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Ela pode viver muitos anos e gosta de andar tranquila, sem pressa.",
+        "imagem": "../jogos/aulas/tartaruga.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/tartaruga.mov"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "O leão é conhecido como o rei da selva. Ele é forte e tem uma juba bonita.",
+        "imagem": "../jogos/aulas/leao.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_livro.png",
+        "fala": "Solta um rugido bem alto, vive em grupos e gosta de cuidar da sua família.",
+        "imagem": "../jogos/aulas/leao.jpg"
+    },
+    {
+        "sprite": "../jogos/arara_contando.png",
+        "fala": "Agora vamos conhecer e praticar o sinal em Libras para esse animal.",
+        "video": "../jogos/videos/leao.mov"
+    }
+]
